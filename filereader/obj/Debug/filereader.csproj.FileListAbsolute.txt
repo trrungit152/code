@@ -1,0 +1,8 @@
+D:\Code\BTLoop20222-main\filereader\bin\Debug\filereader.exe.config
+D:\Code\BTLoop20222-main\filereader\bin\Debug\filereader.exe
+D:\Code\BTLoop20222-main\filereader\bin\Debug\filereader.pdb
+D:\Code\BTLoop20222-main\filereader\obj\Debug\filereader.csproj.AssemblyReference.cache
+D:\Code\BTLoop20222-main\filereader\obj\Debug\filereader.csproj.SuggestedBindingRedirects.cache
+D:\Code\BTLoop20222-main\filereader\obj\Debug\filereader.csproj.CoreCompileInputs.cache
+D:\Code\BTLoop20222-main\filereader\obj\Debug\filereader.exe
+D:\Code\BTLoop20222-main\filereader\obj\Debug\filereader.pdb
